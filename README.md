@@ -1,1 +1,2 @@
-# dotnet-rpg
+# Intention
+Learning basic of crud by c#
